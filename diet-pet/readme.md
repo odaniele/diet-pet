@@ -9,11 +9,13 @@ Para os adeptos da alimentação natural dos seus bichinhos de estimação, este
 
 ### 📲 Como Instalar 
 
+Acesso disponível em [www.dietpet.com.br](www.dietpet.com.br).
+
 ### ✏️ Como Usar 
 
-Para montar as refeições, você deverá informar alguns dados sobre a saúde do seu pet e escolher quais ingredientes irão compor o plano alimentar.
+Para montar as refeições, o usurário deve informar alguns dados sobre a saúde do seu pet e escolher quais ingredientes irão compor o plano alimentar.
 
-📌 1º Passo: Você deverá incluir as seguintes informações:
+📌 1º Passo: Incluir as seguintes informações:
 
 - Idade
 - Peso
@@ -22,7 +24,7 @@ Para montar as refeições, você deverá informar alguns dados sobre a saúde d
 - Perfil de atividade física
 - Status reprodutivo
 
-📌 2º Você poderá selecionar os alimentos que deseja incluir na dieta:
+📌 2º Passo: Selecionar os alimentos que deseja incluir na dieta:
 
 Carboidratos | Proteínas | Vegetais | Vísceras 
 -------------|-----------|---------| ---------
