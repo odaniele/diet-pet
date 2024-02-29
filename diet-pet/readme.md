@@ -4,7 +4,7 @@
 
 Para os adeptos da alimentação natural dos seus bichinhos de estimação, este projeto tem como objetivo elaborar um menu variado de refeições. Após a avaliação de um médico veterinário, utilizaremos os dados fornecidos pelo usuário para criar as combinações, considerando o teor de cada grupo nutricional e a quantidade diária ideal de acordo com o número de refeições que deseja oferecer ao pet.
 
-   <center> <img src="https://j.gifs.com/y3jR7Z.gif"></center>
+   <center><img src="https://j.gifs.com/y3jR7Z.gif"></center>
    
 
 ### 📲 Como Instalar 
