@@ -63,5 +63,6 @@ Sergio Pereira
 [Andrea Marta](https://www.linkedin.com/in/dea-santos-dev/)
 
 ### 📜 Licença 
+#### MIT License
 
 ### 📊 Informações
