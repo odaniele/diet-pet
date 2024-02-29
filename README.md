@@ -45,7 +45,8 @@ Edson
     
 [Anderson Pereira](https://www.linkedin.com/in/anderson-faria-04a0382a5/)
 
-[Bruna Freitas](https://www.linkedin.com/in/bruna-rodrigues-freitas)
+[Bruna Rodrigues](https://www.linkedin.com/in/bruna-rodrigues-freitas)
+
     
 Priscila Izidório
     
