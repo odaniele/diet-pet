@@ -41,32 +41,31 @@ Turma de Programação Web Front End 2024.1 - [Campinho Digital](https://www.cam
 
 #### 🏆 Squad 4:
 
-Edson
-    
-[Anderson Pereira](https://www.linkedin.com/in/anderson-faria-04a0382a5/)
+## 🚀 **Equipe de Estrelas Contribuintes**
 
-[Bruna Rodrigues](https://www.linkedin.com/in/bruna-rodrigues-freitas)
+Seja muito bem-vindo ao incrível time de colaboradores do projeto Diet Pet! Aqui estão os membros que estão fazendo a diferença e tornando este projeto incrível:
 
-    
-Priscila Izidório
-    
-[Salvador Lima](https://www.linkedin.com/in/salvador-lima-junior-5a657b165)
-    
-Joyce Marinho
-    
-Leandro Chaves
-    
-Giovani Barbosa
-    
-Sergio Pereira
-    
-[Andrea Marta](https://www.linkedin.com/in/dea-santos-dev/)
+1. 🌟 **Edson**
+2. 🌟 **[Anderson Pereira](https://www.linkedin.com/in/anderson-faria-04a0382a5/)**
+3. 🌟 **[Bruna Rodrigues](https://www.linkedin.com/in/bruna-rodrigues-freitas)**
+4. 🌟 **Priscila Izidório**
+5. 🌟 **[Salvador Lima](https://www.linkedin.com/in/salvador-lima-junior-5a657b165)**
+6. 🌟 **Joyce Marinho**
+7. 🌟 **Leandro Chaves**
+8. 🌟 **Giovani Barbosa**
+9. 🌟 **Sérgio Pereira**
+10. 🌟 **Andreia Marta**
+
+Obrigado a todos por contribuírem com seu talento e dedicação! Juntos, estamos construindo algo extraordinário. 🎉✨
+
+Lembre-se, a magia está na colaboração! 💻🤝
+
+
+
 
 ### 📜 Licença 
 #### MIT License
 
 ### 📊 Informações
 
-## CONTATO
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-pereira-807437275/)
