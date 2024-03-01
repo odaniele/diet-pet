@@ -52,7 +52,7 @@ Priscila Izidório
     
 [Salvador Lima](https://www.linkedin.com/in/salvador-lima-junior-5a657b165)
     
-Joyce Marinho
+[Joyce Marinho] (https://www.linkedin.com/in/joyce-marinho-442bb193)
     
 Leandro Chaves
     
