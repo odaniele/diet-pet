@@ -43,9 +43,10 @@ Turma de Programação Web Front End 2024.1 - [Campinho Digital](https://www.cam
 
 Edson
     
-Anderson Pereira
+[Anderson Pereira](https://www.linkedin.com/in/anderson-faria-04a0382a5/)
 
-[Bruna Freitas](https://www.linkedin.com/in/bruna-rodrigues-freitas)
+[Bruna Rodrigues](https://www.linkedin.com/in/bruna-rodrigues-freitas)
+
     
 Priscila Izidório
     
@@ -62,5 +63,6 @@ Sergio Pereira
 [Andrea Marta](https://www.linkedin.com/in/dea-santos-dev/)
 
 ### 📜 Licença 
+#### MIT License
 
 ### 📊 Informações
