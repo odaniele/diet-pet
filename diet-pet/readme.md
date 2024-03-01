@@ -65,3 +65,4 @@ Sergio Pereira
 ## MIT License
 
 ### 📊 Informações
+O site tem a finalidade de diversificar o preparo das refeições,  montando novas combinações de ingredientes. Antes de utilizá-lo, consulte um médico veterinário para acompanhar a saúde do seu pet. 
